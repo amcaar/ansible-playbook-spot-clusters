@@ -1,5 +1,3 @@
-ansible-playbook-spot-clusters
-==============================
 
 Description
 ===========
